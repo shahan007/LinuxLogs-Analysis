@@ -1,0 +1,6 @@
+seaborn=0.10.1 
+sqlalchemy=1.3.20
+requests=2.23.0
+maxminddb
+geoip2
+jupyter
